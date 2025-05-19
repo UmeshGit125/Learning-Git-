@@ -8,3 +8,24 @@ how to switch over these branches
 
 git checkout branchname(which you wants to go)
 
+
+======>>>>>>>     
+
+updating it after the merging 
+---------------------------------------------------
+
+
+now if we commit something it will in this branch itself if we want to merge it into the main than we need to switch to main branch 
+
+
+
+== >> git checkout main
+
+# than we need to merge this to main 
+
+=== >> git merge AI (branchname) 
+
+# then push it to main 
+
+==>> git push origin main  
+
