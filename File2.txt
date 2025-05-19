@@ -1,1 +1,3 @@
-this is the file that I create after successfully cloning it in the dir git clone now I am again adding this into git repo 
+# this is the file that I create after successfully cloning it in the dir git clone now I am again adding this into git repo 
+
+== > git clone https://github.com/UmeshGit125/Learning-Git-.git 

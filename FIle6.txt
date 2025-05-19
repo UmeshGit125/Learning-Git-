@@ -1,0 +1,16 @@
+# info about git log 
+
+
+==>> git log 
+
+# that wil told us all the changes that we made till with the command that we put there 
+
+
+===>> git log -p -n 
+
+# shows us last n logs with the full info about them and came out from that we just need to do 
+
+:q 
+
+
+# and we are on the terminal 

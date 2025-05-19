@@ -1,7 +1,10 @@
-usecase of git diff 
+# Usecase of git diff 
 
 
 
-if we do git diff --staged 
+# if we do 
 
-its show difference between staged and commit like what is staged but not commmited yet 
+
+====>> git diff --staged 
+
+# its show difference between staged and commit like what is staged but not commited yet 

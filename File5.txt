@@ -1,21 +1,21 @@
-how to create a new branch in git 
+# how to create a new branch in git 
 
 
-git branch branch name 
+# git branch branch name 
 
-how to switch over these branches 
+# how to switch over these branches 
 
 
-git checkout branchname(which you wants to go)
+# git checkout branchname(which you wants to go)
 
 
 ======>>>>>>>     
 
-updating it after the merging 
+# updating it after the merging 
 ---------------------------------------------------
 
 
-now if we commit something it will in this branch itself if we want to merge it into the main than we need to switch to main branch 
+# now if we commit something it will in this branch itself if we want to merge it into the main than we need to switch to main branch 
 
 
 
