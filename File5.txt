@@ -1,0 +1,10 @@
+how to create a new branch in git 
+
+
+git branch branch name 
+
+how to switch over these branches 
+
+
+git checkout branchname(which you wants to go)
+
