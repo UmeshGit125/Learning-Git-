@@ -1,0 +1,20 @@
+ish ke threw ham samjh rhe h ki 
+
+git add karne ke baad kese hatate hai file ko add se ishke liye 
+
+
+
+git restore --staged "File3.txt" 
+
+command  --option  filename 
+
+
+
+
+There is another way to do this 
+
+
+git reset filename (File3.txt) 
+
+
+it also work as same as git restore --staged filename 
