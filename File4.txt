@@ -1,0 +1,7 @@
+usecase of git diff 
+
+
+
+if we do git diff --staged 
+
+its show difference between staged and commit like what is staged but not commmited yet 
